@@ -19,36 +19,32 @@ Les 3 objectifs de la plateforme d'enchères Stampee :
 2. Trouver rapidement des enchères précises, présentes ou passées.
 3. Être accessible universellement, sur tout appareil.
 
-Lien vers le projet : [stampee](https://michijoe.github.io/s3_design_stampee/)
-
-## 🚀 Quickstart
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+🚀 Lien vers le projet : [stampee](https://michijoe.github.io/s3_design_stampee/)
 
 ## 🎯 Features
 
 - Gérer des comptes de membres
+
 La plateforme doit permettre à tout usager intéressé de devenir membre pour ainsi prendre part aux enchères. Le membre devrait avoir accès à des informations pertinentes sur son profil d’acheteur et son historique d’offres.
 
 - Trouver rapidement une enchère
+
 La plateforme doit permettre à tout usager de parcourir les enchères, actives ou archivées, en fonction de ses intérêts pour lui faciliter la tâche de trouver le timbre qui lui fait envie. Ses intérêts, sans être exhaustif, sont de l’ordre du pays d’origine, de l’année de publication, de la condition, etc.
 
 - Placer des offres
+
 La plateforme doit permettre à tout membre de placer des offres, à répétition s’il le souhaite, sur une ou des enchères. Les offres en cours et leur état devraient être accessibles dans la section « Profil » du membre.
 
-- « Voir les timbres de proche »
+- Voir les timbres de proche
+
 Souhait spécial de Lord Stampee, la plateforme doit permettre de « voir les timbres de proche ». À vous de voir comment interpréter cette demande mais probablement que la possibilité de « zoomer » à l’intérieur des timbres pourrait exaucer ce souhait à prendre au sérieux.
 
-- Une navigation « simple comme un timbre »
+- Une navigation simple comme un timbre
+
 Deuxième souhait spécial de Lord Stampee, la plateforme doit permettre de naviguer de pages en pages (surtout les pages les plus importantes) simplement. Il faudra très probablement proposer une navigation en deux niveaux.
 
 - Archives des enchères passées
+
 La plateforme doit permettre de consulter les enchères archivées. Elle doit aussi permettre à l’usager de trouver rapidement l’enchère désirée, de la même façon qu’elle le fait pour les enchères en cours. La possibilité de pouvoir commenter les enchères archivées pourrait nous intéresser.
 
 ## 🤖 Built With
