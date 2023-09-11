@@ -7,6 +7,7 @@
     <li><a href="#-intro">Intro</a></li>
     <li><a href="#-features">Features</a></li>
     <li><a href="#-built-with">Built with</a></li>
+    <li><a href="#-screenshots">Screenshots</a></li>
   </ol>
 </details>
 
