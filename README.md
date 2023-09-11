@@ -19,7 +19,7 @@ Les 3 objectifs de la plateforme d'enchères Stampee :
 2. Trouver rapidement des enchères précises, présentes ou passées.
 3. Être accessible universellement, sur tout appareil.
 
-Lien vers le projet : [product-screenshot](https://example.com)
+Lien vers le projet : [stampee](https://michijoe.github.io/s3_design_stampee/)
 
 ## 🚀 Quickstart
 
